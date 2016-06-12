@@ -64,7 +64,7 @@ Here is a list of topics that I think would be beneficial to know. It mostly fol
 	
 	
 ##Organization
-How should we organize the group? Should we have one of us summarize and present on each topic every week? 
+How should we organize the group? Should we have one of us summarize and present on each topic every week? How many times a week should we meet? I was thinking 2 to 3, but we could also meet once and go over everything for that section. 
 
 ##Projects/Practice
 I think we should practice while we go through the material. Most of the online classes listed have nice Ipython NBs guided assigments that we could do. Otherwise we could try and develop our own project but I'm afraid that we might not be able to do it without practicing first. 
