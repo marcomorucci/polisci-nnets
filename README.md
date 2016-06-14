@@ -30,20 +30,30 @@ THE tutorial on deep learning. Was once a class at Stanford, not it's a publicly
 Here is a list of topics that I think would be beneficial to know. It mostly follows the Google Mooc. The idea would be to adopt its structure but complement it with readings/assigments from the other classes and books which should be somewhat more advanced.  I'll update this with links to the relevant sections of the resources listed above. We don't necessarily have to go through everything. 
 
 ### Introduction/General ML  
-1. Classification Problems 
-2. Softmax Classifier
-3. Loss Functions
-4. Cross-Validation 
-5. Stochastic Optimization
-6. Hyperparameter Tuning
+1. Classification Problems (GG) (What is Deep Learning? - Let's Get Started.)
+ 	. . a ([CV](http://cs231n.github.io/classification)) KNN Image Classification.
+2. Softmax Classifier (GG) (Training Your Logistic Classifier - One-Hot Encoding)
+	. . a ([CV](http://cs231n.github.io/linear-classify)) Linear Classification
+	. . b ([UL](http://ufldl.stanford.edu/wiki/index.php/Softmax_Regression)) Softmax Regression
+3. Loss Functions (GG) (Cross Entropy - Assignment 1: notMNIST)
+4. Cross-Validation (GG) (Measuring Performance - Validation Test Set Size Continued)
+5. Stochastic Optimization (GG) (Optimizing a Logistic Classifier - Momentum and Learning Rate Decay)
+ 	. . a ([CV](http://cs231n.github.io/optimization-1/)) Optimization
+ 	. . b ([UL](http://ufldl.stanford.edu/wiki/index.php/Gradient_checking_and_advanced_optimization)) Gradient Checking
+6. Hyperparameter Tuning (GG) (Parameter Hyperspace)
 
 ### Neural Networks
-1. Rectified Linear Units
-2. Simple Network
-3. Backpropagation
-4. Deep Networks
+1. Rectified Linear Units (GG) (Intro to Lesson 2 - Rectified Linear Units)
+2. Simple Network (GG) (Network of ReLUs - 2-Layer Neural Network)
+	. . a ([CV](http://cs231n.stanford.edu/slides/winter1516_lecture4.pdf)) Intro to NNs.
+	. . b ([NLP](http://cs224d.stanford.edu/lecture_notes/notes3.pdf)) NNs for Named Entity Recognition.
+	. . c ([UL](http://ufldl.stanford.edu/wiki/index.php/Neural_Networks)) Neural Networks.
+3. Backpropagation (GG) (The Chain Rule - Assignment 2)
+	. . a ([UL](http://ufldl.stanford.edu/wiki/index.php/Backpropagation_Algorithm)) Backpropagation.
+	. . b ([CV](http://cs231n.github.io/optimization-2/)) Backpropagation.
+4. Deep Networks (GG) (Training a Deep Learning Network)
+5. Regularization (GG) (Regularization Intro - Assigment 3: Regularization)
 5. Autoencoders
-5. Regularization
 
 ### Convolutional NNs
 1. Statistical Invariance
