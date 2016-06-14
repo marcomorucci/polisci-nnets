@@ -31,15 +31,15 @@ Here is a list of topics that I think would be beneficial to know. It mostly fol
 
 ### Introduction/General ML  
 1. Classification Problems (GG) (What is Deep Learning? - Let's Get Started.)
- 	. . a ([CV](http://cs231n.github.io/classification)) KNN Image Classification.
+	* ([CV](http://cs231n.github.io/classification)) KNN Image Classification.
 2. Softmax Classifier (GG) (Training Your Logistic Classifier - One-Hot Encoding)
-	. . a ([CV](http://cs231n.github.io/linear-classify)) Linear Classification
-	. . b ([UL](http://ufldl.stanford.edu/wiki/index.php/Softmax_Regression)) Softmax Regression
+	* ([CV](http://cs231n.github.io/linear-classify)) Linear Classification
+	* ([UL](http://ufldl.stanford.edu/wiki/index.php/Softmax_Regression)) Softmax Regression
 3. Loss Functions (GG) (Cross Entropy - Assignment 1: notMNIST)
 4. Cross-Validation (GG) (Measuring Performance - Validation Test Set Size Continued)
 5. Stochastic Optimization (GG) (Optimizing a Logistic Classifier - Momentum and Learning Rate Decay)
- 	. . a ([CV](http://cs231n.github.io/optimization-1/)) Optimization
- 	. . b ([UL](http://ufldl.stanford.edu/wiki/index.php/Gradient_checking_and_advanced_optimization)) Gradient Checking
+	* ([CV](http://cs231n.github.io/optimization-1/)) Optimization
+ 	* ([UL](http://ufldl.stanford.edu/wiki/index.php/Gradient_checking_and_advanced_optimization)) Gradient Checking
 6. Hyperparameter Tuning (GG) (Parameter Hyperspace)
 
 ### Neural Networks
