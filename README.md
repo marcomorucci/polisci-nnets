@@ -26,60 +26,40 @@ THE book on theoretical ML. We'll be getting our math from here.
 ###[UFLDL](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 THE tutorial on deep learning. Was once a class at Stanford, not it's a publicly editable wiki. 
 
-##Syllabus
-Here is a list of topics that I think would be beneficial to know. It mostly follows the Google Mooc. The idea would be to adopt its structure but complement it with readings/assigments from the other classes and books which should be somewhat more advanced.  I'll update this with links to the relevant sections of the resources listed above. We don't necessarily have to go through everything. 
 
-### Introduction/General ML  
-1. Classification Problems (GG) (What is Deep Learning? - Let's Get Started.)
-	* ([CV](http://cs231n.github.io/classification)) KNN Image Classification.
-2. Softmax Classifier (GG) (Training Your Logistic Classifier - One-Hot Encoding)
-	* ([CV](http://cs231n.github.io/linear-classify)) Linear Classification
-	* ([UL](http://ufldl.stanford.edu/wiki/index.php/Softmax_Regression)) Softmax Regression
-3. Loss Functions (GG) (Cross Entropy - Assignment 1: notMNIST)
-4. Cross-Validation (GG) (Measuring Performance - Validation Test Set Size Continued)
-5. Stochastic Optimization (GG) (Optimizing a Logistic Classifier - Momentum and Learning Rate Decay)
-	* ([CV](http://cs231n.github.io/optimization-1/)) Optimization
- 	* ([UL](http://ufldl.stanford.edu/wiki/index.php/Gradient_checking_and_advanced_optimization)) Gradient Checking
-6. Hyperparameter Tuning (GG) (Parameter Hyperspace)
+***
 
-### Neural Networks
-1. Rectified Linear Units (GG) (Intro to Lesson 2 - Rectified Linear Units)
-2. Simple Network (GG) (Network of ReLUs - 2-Layer Neural Network)
-	. . a ([CV](http://cs231n.stanford.edu/slides/winter1516_lecture4.pdf)) Intro to NNs.
-	. . b ([NLP](http://cs224d.stanford.edu/lecture_notes/notes3.pdf)) NNs for Named Entity Recognition.
-	. . c ([UL](http://ufldl.stanford.edu/wiki/index.php/Neural_Networks)) Neural Networks.
-3. Backpropagation (GG) (The Chain Rule - Assignment 2)
-	. . a ([UL](http://ufldl.stanford.edu/wiki/index.php/Backpropagation_Algorithm)) Backpropagation.
-	. . b ([CV](http://cs231n.github.io/optimization-2/)) Backpropagation.
-4. Deep Networks (GG) (Training a Deep Learning Network)
-5. Regularization (GG) (Regularization Intro - Assigment 3: Regularization)
-5. Autoencoders
+###[Geoff Hinton's Coursera Class](https://class.coursera.org/neuralnets-2012-001)
+Good class that covers a lot of topics with a good degree of depth. There are notes and assignments.  One downside is that they use matlab (octave).
 
-### Convolutional NNs
-1. Statistical Invariance
-2. Convolutions
-3. Inception 
-4. Advice for Training Convnets
+***
 
-### Recursive NNs 
-1. Embeddings
-2. Word2Vec
-3. RNNs
-	a. Backprop through time
-	b. Vanishing Gradients
-4. LSTM
-	a. Cells
-	b. Beam Search
-	c. Regularization 
-	
+###[Deep Learning From The Bottom Up](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
+This is a roadmap on [Metacademy](http://www.metacademy.org/) (if you don't know of this website have a look, it's amazing). It outlines the main topics involved in deep learning and NNs, every link on the document redirects to a list of topics and resources for learning that subject. 
+
+***
+
+###[Yann Le Cunn's NYU Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start#week_1)
+The man himself teaches a deep learning course at NYU. Slides, assignments and some lecture videos are available. 
+
+***
+
+###[DeepLearning.net](http://deeplearning.net/tutorial/)
+
+***
 	
 ##Organization
-How should we organize the group? Should we have one of us summarize and present on each topic every week? How many times a week should we meet? I was thinking 2 to 3, but we could also meet once and go over everything for that section. 
+We will read some chapters from the Bishop Book every week and meet once a week on Friday and discuss the readings.
 
 ##Projects/Practice
-I think we should practice while we go through the material. Most of the online classes listed have nice Ipython NBs guided assigments that we could do. Otherwise we could try and develop our own project but I'm afraid that we might not be able to do it without practicing first. 
+We should come up with some project ideas that we can apply what we learn to.  If we want to practice, some of the moocs above have nice Ipython notebook assignments that seem straightforward. 
 
 ##Which Library?
-So most of these use Tensorflow, which I'd be ok with learning. Alternatives are theano or torch. I have no strong preference, Tensorflow seems the most convenient because most of the material in the resource list depends on it. 
+So most of these resources use Tensorflow, which I'd be ok with learning. Alternatives are theano or torch. I have no strong preference, Tensorflow seems the most convenient because most of the material in the resource list depends on it. 
 
+***
+##Weeks
+
+###Week 1 (Fri, Jun 24th):
+1. Read Bishop Ch. 2.5 to 3.6. (pp. 120-173)
 	
