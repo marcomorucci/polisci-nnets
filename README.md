@@ -47,7 +47,14 @@ The man himself teaches a deep learning course at NYU. Slides, assignments and s
 ###[DeepLearning.net](http://deeplearning.net/tutorial/)
 
 ***
-	
+
+###[Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.9/tutorials/index.html)
+Mostly on computer vision and specifically handwritten digit recognition. I'm listing only a few interesting ones here, there are many more on the page. 
+
+* [Beginner MNIST](https://www.tensorflow.org/versions/r0.9/tutorials/mnist/beginners/index.html)
+* [Expert MNIST](https://www.tensorflow.org/versions/r0.9/tutorials/mnist/pros/index.html)
+* [RNNs for Language Modeling](https://www.tensorflow.org/versions/r0.9/tutorials/recurrent/index.html)
+
 ##Organization
 We will read some chapters from the Bishop Book every week and meet once a week on Friday and discuss the readings.
 
@@ -58,8 +65,4 @@ We should come up with some project ideas that we can apply what we learn to.  I
 So most of these resources use Tensorflow, which I'd be ok with learning. Alternatives are theano or torch. I have no strong preference, Tensorflow seems the most convenient because most of the material in the resource list depends on it. 
 
 ***
-##Weeks
-
-###Week 1 (Fri, Jun 24th):
-1. Read Bishop Ch. 2.5 to 3.6. (pp. 120-173)
 	
